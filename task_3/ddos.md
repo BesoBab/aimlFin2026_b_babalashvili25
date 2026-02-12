@@ -17,8 +17,8 @@ The analysis followed a structured pipeline:
 The regression analysis successfully identified the following high-intensity attack intervals:
 
 **Detected Attack Timestamps:**
-* [PASTE YOUR TIMESTAMPS HERE, e.g., 2026-02-12 14:45:00]
-* [PASTE YOUR TIMESTAMPS HERE, e.g., 2026-02-12 14:46:00]
+* 2024-03-22 18:13:00	~13,800
+* 2024-03-22 18:14:00	~14,200
 
 ---
 
