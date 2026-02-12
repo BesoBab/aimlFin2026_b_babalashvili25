@@ -42,7 +42,7 @@ Practical Implementation (Python)
 The following code demonstrates a simple CNN structure designed to classify malware images.
 
 Python:
-
+#
 import tensorflow as tf
 from tensorflow.keras import layers, models
 
