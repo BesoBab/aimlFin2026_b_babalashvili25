@@ -42,7 +42,6 @@ Practical Implementation (Python)
 The following code demonstrates a simple CNN structure designed to classify malware images.
 
 Python:
-#
 import tensorflow as tf
 from tensorflow.keras import layers, models
 
@@ -72,6 +71,10 @@ def build_malware_cnn(input_shape=(64, 64, 1)):
                   metrics=['accuracy'])
     
     return model
+
+# Summary of the architecture
+malware_model = build_malware_cnn()
+malware_model.summary()
 
 # Summary of the architecture
 malware_model = build_malware_cnn()
